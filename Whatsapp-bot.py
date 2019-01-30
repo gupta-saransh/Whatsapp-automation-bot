@@ -10,7 +10,7 @@
 number_of_times = 10
 ### This Contact Name should be in recent chats , Should match exactly as it appears on contacts
 name = 'Contact_Name'
-message = 'Hi! are you there?'
+message = 'Dude! Why are you not replying???!!!!!!!!!!'
 
 
 
